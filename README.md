@@ -2,4 +2,4 @@
 
 
 ## Command 
-           -  docker run -d -p 80:80  windows_in_docker
+        -  docker run -d -p 80:80  windows_in_docker
