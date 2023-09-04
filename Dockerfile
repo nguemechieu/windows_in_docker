@@ -5,7 +5,7 @@ FROM mcr.microsoft.com/dotnet/aspnet:6.0-windowsservercore-ltsc2022
 WORKDIR /app
 
 # Copy the published application files into the container
-COPY ./published-app .
+
 
 # Expose the port your application listens on
 EXPOSE 80
